@@ -14,12 +14,14 @@ assignees: jessuni
 
   - How to get the Netflix ID?
 
-  Click the movie/TV series that you want to report in Netflix. 
+  Click the movie/TV series that you want to report in Netflix.
   The URL of the address bar will appear something like this:
 
     https://www.netflix.com/watch/12345678
 
-  Then the Netflix ID is the 5-9 digit: 12345678
+  Then the Netflix ID is the 5-9 digits: 12345678
+
+  Here's an example issue: https://github.com/jessuni/popcorn-issues/issues/1
 -->
  - [x] I have read the guidelines.
  - [ ] I have checked the issue list. No one has reported this title before.
@@ -28,10 +30,10 @@ assignees: jessuni
 - title: <!--eg: Queen's Gambit -->
 - NetflixID: <!--eg: 12345678 -->
 - Which link is wrong?
-   - [ ] IMDb
+   - [ ] IMDb: <!--please provide the wrong link here-->
    - [ ] Douban
    <!-- Currently the extension doesn't provide link for RottenTomatoes and Metacritic. -->
-- The right Link:
+- The right link:
    - IMDb:
    - Douban:
 
