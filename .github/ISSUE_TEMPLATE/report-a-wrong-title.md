@@ -1,8 +1,8 @@
 ---
-name: Report a wrong title
+name: Report a wrong link
 about: Create a report to help us improve
 title: "[TITLE] {title} - {netflixid}"
-labels: wrong title
+labels: wrong link
 assignees: jessuni
 
 ---

@@ -1,10 +1,10 @@
 # Read me first!
 
-This repository is for **reporting wrong titles ONLY**. Please don't submit issues of other topics as they will likely be ignored. For other issues please check the [Q&A](#QA) section.
+This repository is for **reporting wrong links ONLY**. Please don't submit issues of other topics as they will likely be ignored. For other issues please check the [Q&A](#QA) section.
 
 **Before creating an issue, please check the guidelines** and follow the template, as it helps automate the process and in turn shinks the waiting cycle of the next update.
 
-## How to report a wrong title?
+## How to report a wrong link?
 
 If you are new to Github:
 1. read the Github tutorial [Creating an issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue).
