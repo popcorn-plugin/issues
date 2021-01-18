@@ -30,12 +30,14 @@ assignees: jessuni
 - title: <!--eg: Queen's Gambit -->
 - NetflixID: <!--eg: 12345678 -->
 - Which link is wrong?
-   - [ ] IMDb: <!--please provide the wrong link here-->
-   - [ ] Douban
-   <!-- Currently the extension doesn't provide link for RottenTomatoes and Metacritic. -->
+  - [ ] IMDb: <!--please provide the wrong link here-->
+  - [ ] RottenTomatoes:
+  - [ ] Douban:
+  <!-- Currently the extension doesn't provide link for Metacritic. -->
 - The right link:
-   - IMDb:
-   - Douban:
+  - IMDb:
+  - RottenTomatoes:
+  - Douban:
 
 **Additional context**
 Add any other context about the problem here.
